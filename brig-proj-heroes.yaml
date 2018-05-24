@@ -1,0 +1,12 @@
+project: "siva2krish/blackbelt-aks-hackfest"
+repository: "github.com/siva2krish/blackbelt-aks-hackfest.git"
+cloneURL: "https://github.com/siva2krish/blackbelt-aks-hackfest.git"
+sharedSecret: "sivaram"
+# MAKE SURE YOU CHANGE THIS. It's basically a password
+github:
+  token: "e8b051761e2d6e28d9a87c225ac21f87a6280193"
+secrets:
+  acrServer: sivak8ss.azurecr.io
+  acrUsername: Sivak8ss
+  acrPassword: "6EkKjs4ferGwxzaE+SvsRG6Vo0QhsT8p"
+vcsSidecar: "deis/git-sidecar:v0.11.0"
