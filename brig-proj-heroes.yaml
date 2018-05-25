@@ -4,7 +4,7 @@ cloneURL: "https://github.com/siva2krish/blackbelt-aks-hackfest.git"
 sharedSecret: "sivaram"
 # MAKE SURE YOU CHANGE THIS. It's basically a password
 github:
-  token: "6e8a35d5b983b2f8c1bc1f4de460152ef88c36e6"
+  token: "76daf7d038fa47bf1ef16f996e3f886bfd409963"
 secrets:
   acrServer: sivak8ss.azurecr.io
   acrUsername: Sivak8ss
