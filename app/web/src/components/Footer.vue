@@ -2,7 +2,7 @@
   <div class="col-lg-6">
   </div>
   <div class="col-lg-12 credits">
-    SNP Mike TE
+    SNP Mike
   </div>
   <div class="col-lg-6">
   </div>
