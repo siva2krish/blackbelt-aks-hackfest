@@ -1,5 +1,5 @@
 project: "siva2krish/blackbelt-aks-hackfest"
-repository: "https://github.com/siva2krish/blackbelt-aks-hackfest.git"
+repository: "github.com/siva2krish/blackbelt-aks-hackfest.git"
 cloneURL: "https://github.com/siva2krish/blackbelt-aks-hackfest.git"
 sharedSecret: "sivaram"
 # MAKE SURE YOU CHANGE THIS. It's basically a password
