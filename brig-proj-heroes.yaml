@@ -9,4 +9,4 @@ secrets:
   acrServer: sivak8s.azurecr.io
   acrUsername: sivak8s
   acrPassword: "JgZ+LeZgVMg/dSHfcmoWP1x4QGpLDfC8"
-vcsSidecar: "deis/git-sidecar:v0.11.0"
+vcsSidecar: "azureworkshop/rating-web:v1"
