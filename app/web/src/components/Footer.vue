@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-       elt Team
+       Azure siva black Team
       </div>
       <div class="col-lg-6">
       </div>
