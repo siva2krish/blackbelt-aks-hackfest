@@ -5,9 +5,9 @@ events.on("push", (brigadeEvent, project) => {
     // setup variables
     var gitPayload = JSON.parse(brigadeEvent.payload)
     var brigConfig = new Map()
-    brigConfig.set("sivak8s.azurecr.io", project.secrets.acrServer)
-    brigConfig.set("sivak8s", project.secrets.acrUsername)
-    brigConfig.set("JgZ+LeZgVMg/dSHfcmoWP1x4QGpLDfC8", project.secrets.acrPassword)
+    brigConfig.set("acrServer", project.secrets.acrServer)
+    brigConfig.set("acrUsername", project.secrets.acrUsername)
+    brigConfig.set("acrPassword", project.secrets.acrPassword)
     brigConfig.set("webImage", "azureworkshop/rating-web")
     brigConfig.set("gitSHA", brigadeEvent.revision.commit.substr(0,7))
     brigConfig.set("eventType", brigadeEvent.type)
